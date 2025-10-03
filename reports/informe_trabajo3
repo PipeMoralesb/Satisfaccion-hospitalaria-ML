@@ -1,0 +1,15 @@
+---
+title: "Informe — Trabajo 3: Satisfacción Hospitalaria"
+author: "Felipe Morales"
+date: "`r format(Sys.Date(), '%d-%m-%Y')`"
+output:
+  html_document:
+    toc: true
+    number_sections: true
+---
+
+# Introducción
+Este informe ejecuta el script maestro y muestra resultados clave.
+
+```{r, echo=FALSE, message=TRUE}
+source("../R/Trabajo_3_SatisfaccionHospital.R", encoding = "UTF-8")

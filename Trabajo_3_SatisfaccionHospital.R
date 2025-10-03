@@ -1,6 +1,6 @@
 ############################################
 # TRABAJO 3 - Encuesta Satisfacción Hospital
-# Autor: Felipe Morales (plantilla)
+# Autor: Felipe Morales 
 # Objetivo: Predecir VG y evaluar supuestos del modelo
 # Requisitos: R 4.x, RStudio
 ############################################
@@ -281,6 +281,7 @@ reporte_modelo(mod_step, "Modelo reducido (stepAIC)")
 # - No-normalidad: con n moderado/grande, no afecta insesgadez de betas; afecta tests exactos.
 # - Colinealidad: si VIF alto, elimina ítems muy correlacionados (p.ej., P3/P4/P5 o P6/P7).
 ############################################
+
 
 
 
